@@ -1,0 +1,13 @@
+Java 
+  --Fundamental
+    -Syntex
+    -Data Type
+    -Variable
+    -Arithmetic operation
+    -Type Casting
+    -Statement
+    -Switch Statement
+    -Loop
+    -Methods
+  --OOP
+  --DSA
