@@ -1,3 +1,4 @@
+// Data Type in Java
 public class datatype{
     public static void main(String[] args) {
         int num = 123;
