@@ -13,8 +13,14 @@ Java
     -Class
     -Object
     -Encapulsation
+<<<<<<< HEAD
     -Inheritance
     -Polymorphism
     -Abstraction
     -Interface
+=======
+    -Polymorphism
+    -Abstraction
+    
+>>>>>>> feature1
   --DSA
