@@ -10,4 +10,11 @@ Java
     -Loop
     -Methods
   --OOP
+    -Class
+    -Object
+    -Encapulsation
+    -Inheritance
+    -Polymorphism
+    -Abstraction
+    -Interface
   --DSA
