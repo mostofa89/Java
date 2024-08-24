@@ -1,3 +1,5 @@
+package Fundamentals;
+
 // Data Type in Java
 public class datatype{
     public static void main(String[] args) {

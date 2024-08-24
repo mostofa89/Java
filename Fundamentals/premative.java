@@ -1,3 +1,5 @@
+package Fundamentals;
+
 // Example of Some Premative Types
 public class premative {
     public static void main(String[] args) {
