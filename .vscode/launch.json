@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "statement",
+            "request": "launch",
+            "mainClass": "Fundamentals.statement",
+            "projectName": "Java_22541a8d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Fundamentals.Variable",
+            "projectName": "Java_22541a8d"
+        },
+        {
+            "type": "java",
+            "name": "arithmeticoperation",
+            "request": "launch",
+            "mainClass": "Fundamentals.arithmeticoperation",
+            "projectName": "Java_22541a8d"
+        },
+        {
+            "type": "java",
+            "name": "constant",
+            "request": "launch",
+            "mainClass": "Fundamentals.constant",
+            "projectName": "Java_22541a8d"
+        },
+        {
+            "type": "java",
+            "name": "datatype",
+            "request": "launch",
+            "mainClass": "Fundamentals.datatype",
+            "projectName": "Java_22541a8d"
+        },
+        {
+            "type": "java",
+            "name": "premative",
+            "request": "launch",
+            "mainClass": "Fundamentals.premative",
+            "projectName": "Java_22541a8d"
+        },
+        {
+            "type": "java",
+            "name": "typeCasting",
+            "request": "launch",
+            "mainClass": "Fundamentals.typeCasting",
+            "projectName": "Java_22541a8d"
+        },
+        {
+            "type": "java",
+            "name": "userInput",
+            "request": "launch",
+            "mainClass": "Fundamentals.userInput",
+            "projectName": "Java_22541a8d"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "Java_22541a8d"
+        }
+    ]
+}
