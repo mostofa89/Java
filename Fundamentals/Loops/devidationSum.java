@@ -1,4 +1,4 @@
-package Fundamentals;
+package Fundamentals.Loops;
 
 public class devidationSum {
     public static void main(String[] args) {
