@@ -9,7 +9,6 @@ public class LeftToRight {
         int n = num;
         int count = 0;
 
-        // Count the number of digits
         while (n > 0) {
             n /= 10;
             count += 1;
@@ -17,18 +16,17 @@ public class LeftToRight {
 
         System.out.println("Digits from left to right:");
         for (int i = count - 1; i >= 0; i--) {
-            // Calculate the divisor as a power of 10
             int divisor = (int) Math.pow(10, i);
-            int num1 = num / divisor; // Get the leading digit
-            num %= divisor;           // Remove the leading digit
+            int num1 = num / divisor; 
+            num %= divisor;           
 
             if (i == 0) {
-                System.out.println(num1); // Print the last digit without comma
+                System.out.println(num1); 
             } else {
-                System.out.print(num1 + ", "); // Print the rest with comma
+                System.out.print(num1 + ", "); 
             }
         }
         
-        input.close(); // Close the scanner
+        input.close();
     }
 }
