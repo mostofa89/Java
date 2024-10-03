@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Upper_Lower",
+            "request": "launch",
+            "mainClass": "Fundamentals.String.Upper_Lower",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "Ascii",
+            "request": "launch",
+            "mainClass": "Fundamentals.String.Ascii",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "removeduplicate",
+            "request": "launch",
+            "mainClass": "Fundamentals.String.removeduplicate",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "StringTriangle",
+            "request": "launch",
+            "mainClass": "Fundamentals.String.StringTriangle",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "indexing_Slicing",
+            "request": "launch",
+            "mainClass": "Fundamentals.String.indexing_Slicing",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "LeftToRight",
+            "request": "launch",
+            "mainClass": "Fundamentals.Loops.LeftToRight",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "RightToLeftPrint",
+            "request": "launch",
+            "mainClass": "Fundamentals.Loops.RightToLeftPrint",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
             "name": "statement",
             "request": "launch",
             "mainClass": "Fundamentals.statement",
