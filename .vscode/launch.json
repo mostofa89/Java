@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "find_idx",
+            "request": "launch",
+            "mainClass": "Fundamentals.Array.find_idx",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "StringtoArray",
+            "request": "launch",
+            "mainClass": "Fundamentals.Array.StringtoArray",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "user_Input_Array",
+            "request": "launch",
+            "mainClass": "Fundamentals.Array.user_Input_Array",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "iteratingArray",
+            "request": "launch",
+            "mainClass": "Fundamentals.Array.iteratingArray",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "indexing_Slicing",
+            "request": "launch",
+            "mainClass": "Fundamentals.Array.indexing_Slicing",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "Fundamentals.String.reverse",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "Bin_Convertor",
+            "request": "launch",
+            "mainClass": "Fundamentals.Bin_Convertor",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Bin_Convertor",
+            "request": "launch",
+            "mainClass": "Fundamentals.String.Bin_Convertor",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
             "name": "Upper_Lower",
             "request": "launch",
             "mainClass": "Fundamentals.String.Upper_Lower",
