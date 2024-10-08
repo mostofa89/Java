@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "Fundamentals.Methods.linearSearch",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "methodoverloadung",
+            "request": "launch",
+            "mainClass": "Fundamentals.Methods.methodoverloadung",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "primeChecker",
+            "request": "launch",
+            "mainClass": "Fundamentals.Methods.primeChecker",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "Fundamentals.Methods.fibonacci",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "Fundamentals.Methods.insertionSort",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "Fundamentals.Methods.Greeting",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "Fundamentals.Array.selectionSort",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "Fundamentals.Array.bubbleSort",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "remElem",
+            "request": "launch",
+            "mainClass": "Fundamentals.Array.remElem",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
             "name": "find_idx",
             "request": "launch",
             "mainClass": "Fundamentals.Array.find_idx",
