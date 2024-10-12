@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bankAcc_DriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Class_Object.bankAcc_DriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
             "name": "binarySearch",
             "request": "launch",
             "mainClass": "Fundamentals.Methods.binarySearch",
