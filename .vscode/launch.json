@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GreenPhoneDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Class_Object.GreenPhoneDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "CustomerDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Class_Object.CustomerDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "Student_DriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Class_Object.Student_DriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "CellPackDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Class_Object.CellPackDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "MangoTreeDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Class_Object.MangoTreeDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "BankAccDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Class_Object.BankAccDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
             "name": "bankAcc_DriverCode",
             "request": "launch",
             "mainClass": "OOP.Class_Object.bankAcc_DriverCode",
