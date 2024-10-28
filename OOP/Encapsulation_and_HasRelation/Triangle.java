@@ -1,4 +1,4 @@
-package OOP.Encapsulation;
+package OOP.Encapsulation_and_HasRelation;
 
 public class Triangle {
     private int base;
