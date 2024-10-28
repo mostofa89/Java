@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TriangleDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Encapsulation.TriangleDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "CircleDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Encapsulation.CircleDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "SphereDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Variable_MethodOverloading.SphereDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "TaxiLagbeDrivercode",
+            "request": "launch",
+            "mainClass": "OOP.Variable_MethodOverloading.TaxiLagbeDrivercode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "FarmerDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Variable_MethodOverloading.FarmerDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
+            "name": "StudentDriverCode",
+            "request": "launch",
+            "mainClass": "OOP.Variable_MethodOverloading.StudentDriverCode",
+            "projectName": "Java_b4b1e54"
+        },
+        {
+            "type": "java",
             "name": "GreenPhoneDriverCode",
             "request": "launch",
             "mainClass": "OOP.Class_Object.GreenPhoneDriverCode",
