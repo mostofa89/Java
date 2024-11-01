@@ -6,7 +6,6 @@ public class Customer {
 
     public Customer(){
         this.counter = 0;
-        this.counter = 0;
         System.out.println("Welcome to ABC Memorial Park!");
     }
 
