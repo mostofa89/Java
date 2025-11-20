@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "libratyManagementSystem",
+            "request": "launch",
+            "mainClass": "libratyManagementSystem",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "TriangleDriverCode",
             "request": "launch",
             "mainClass": "OOP.Encapsulation.TriangleDriverCode",
